@@ -1,0 +1,8 @@
+name: incommodities_case
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab
+  - numpy
+  - bokeh
+  - pandas
